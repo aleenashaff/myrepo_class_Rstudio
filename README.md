@@ -2,4 +2,4 @@
 creating a repo for class
 
 
-lets add the first line in Rstudio on my local machinesssss
+lets add the first line in Rstudio on my local machineaaa
